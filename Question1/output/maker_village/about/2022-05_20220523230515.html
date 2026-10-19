@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,600i,700,700i,800" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+<link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+<link rel="icon" href="images/favicon.ico" type="image/png">
+<link href="css/responsiveslides.css" type="text/css" rel="stylesheet" />
+<link href="css/stylz.css?t=2" type="text/css" rel="stylesheet" />
+<link href="css/media.css" type="text/css" rel="stylesheet" />
+<link rel="stylesheet" href="css/jquery.bxslider.css">
+<link href="css/flexisel.css" type="text/css" rel="stylesheet" />
+<link href="css/grid-gallery.css" type="text/css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="css/carousel.css" />
+<link rel="stylesheet" href="css/owl.carousel.min.css" />
+<link rel="stylesheet" href="css/owl.theme.min.css" />
+
+<script src="js/thumbnail-slider.js"></script>  <title>About Us - Maker Village</title>
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+<link rel="stylesheet" href="css/listnav.css">
+</head>
+<body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="js/grid-gallery.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.2/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.2/dist/jquery.fancybox.min.js"></script>
+<link rel="stylesheet" href="css/menu.css">
+<div class="topwrapper">
+  <div class="logo"><a href="index.php">
+      <img src="images/logo-new.png" alt="Maker Village logo" class="logo_desk" />
+      <img src="images/logo-new.png" alt="Maker Village logo" class="logo_mob" /></a></div>
+  <div class="con">
+    <a href="index.php"><button class="contact book">Home</button></a>
+    <a href="https://forms.gle/S8TgAVWpFYPPmc2S7"><button class="contact">Apply Now</button></a>
+  </div>
+  <nav id="site-nav" class="site-nav">
+    <input type="checkbox" id="toggle" style="display:none" />
+    <label class="navBars" for="toggle">
+      <div id="nav-icon1">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </label>
+    <ul id="menu" class="menu">
+      <li><a class="highlight" href="aboutus.php">About</a></li>
+      <li><a class="" href="people.php">People</a></li>
+      <li><a class="" href="startups.php">Startups</a></li>
+      <li><a class="" href="facility.php">Facilities</a></li>
+      <li><a class="" href="">Media<i class="fa fa-angle-down"></i></a>
+        <ul>
+          <li><a class="" href="events.php">Events</a></li>
+          <li><a class="" href="news.php">News</a></li>
+          <li><a class="" href="imggallery.php">Image Gallery</a></li>
+          <li><a class="" href="videogallery.php">Video Gallery</a></li>
+
+
+        </ul>
+      </li>
+      <li><a class="" href="">Programs<i class="fa fa-angle-down"></i></a>
+        <ul>
+		<li><a class="" href="nidhi-accelerator.php" target="_blank">NIDHI-Accelerator</a></li>
+          <li><a class="" href="program.php" target="_blank">NIDHI-Prayas Program</a></li>
+          <li><a class="">Incubation Programs<i class="fa fa-angle-right"></i></a>
+            <ul>
+              <li><a class="" href="mv-yentrepreneur.php">MV–Yentrepreneur</a></li>
+              <li><a class="" href="mv-idea.php">MV–IDEA</a></li>
+              <li><a class="" href="mv-proto.php">MV–PROTO</a></li>
+              <li><a class="" href="mv-commerce.php">MV–COMMERCE</a></li>
+              <li><a class="" href="mv-scaleup.php">MV–SCALEUP</a></li>
+            </ul>
+          </li>
+          <!--<li><a class="" href="innovatorform.php">Individual Innovator Form</a></li>-->
+        </ul>
+      </li>
+      <li><a class="" href="faq.php">Faqs</a></li>
+      <li><a class="" href="contactus.php">Contact us</a></li>
+    </ul>
+  </nav>
+
+  <div class="clear"></div>
+
+
+</div>
+<div class="clear"></div>
+
+
+
+
+<script src="js/script.js"></script>
+<style>
+  .fa {
+    vertical-align: text-bottom;
+    margin-left: 3px;
+  }
+
+
+
+  /* Icon 1 */
+
+  #nav-icon1,
+  #nav-icon2,
+  #nav-icon3,
+  #nav-icon4 {
+    width: 34px;
+    top: 40px;
+    right: 15px;
+    position: relative;
+
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+    -webkit-transition: .5s ease-in-out;
+    -moz-transition: .5s ease-in-out;
+    -o-transition: .5s ease-in-out;
+    transition: .5s ease-in-out;
+    cursor: pointer;
+  }
+
+  #nav-icon1 span,
+  #nav-icon3 span,
+  #nav-icon4 span {
+    display: block;
+    position: absolute;
+    height: 6px;
+    width: 100%;
+    background: #1e2c4f;
+    border-radius: 9px;
+    opacity: 1;
+    left: 0;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+    -webkit-transition: .25s ease-in-out;
+    -moz-transition: .25s ease-in-out;
+    -o-transition: .25s ease-in-out;
+    transition: .25s ease-in-out;
+  }
+
+  #nav-icon1 span:nth-child(1) {
+    top: 0px;
+  }
+
+  #nav-icon1 span:nth-child(2) {
+    top: 10px;
+  }
+
+  #nav-icon1 span:nth-child(3) {
+    top: 20px;
+  }
+
+  #nav-icon1.open span:nth-child(1) {
+    top: 18px;
+    -webkit-transform: rotate(135deg);
+    -moz-transform: rotate(135deg);
+    -o-transform: rotate(135deg);
+    transform: rotate(135deg);
+  }
+
+  #nav-icon1.open span:nth-child(2) {
+    opacity: 0;
+    left: -60px;
+  }
+
+  #nav-icon1.open span:nth-child(3) {
+    top: 18px;
+    -webkit-transform: rotate(-135deg);
+    -moz-transform: rotate(-135deg);
+    -o-transform: rotate(-135deg);
+    transform: rotate(-135deg);
+  }
+</style> 
+ <div class="about">
+<img  src="https://makervillage.in/makerupload/original/banner/1640895822e.jpg" alt="Image-1"/>
+<div class="wrapper">
+<div class="caption_about">
+       
+<h1><h1>Bringing India to the forefront</h1>
+
+<h1>of innovation in the electronics space</h1>
+ </h1>
+</div>
+</div>
+</div>
+<div class="container_about subpage">
+	<div class="wrapper">
+ <div class="about_title"><h1>About Maker Village </h1>
+ <p><h1><span style="background-color:rgb(247, 247, 247); color:rgb(0, 0, 0); font-family:open sans; font-size:16px">Maker Village is the largest electronic hardware incubator and ESDM facility in the country, which is a pioneering startup initiative of Ministry&nbsp;of Electronics and Information Technology, Government of India with Indian Institute of Information Technology, Trivandrum as the implementation agency and Kerala Startup Mission as the supporting partner.&nbsp;</span></h1>
+</p>
+    </div>
+	<div class="middlesec_about">
+	<div class="middlesec_image"><div class="about_img"><img src="images/Iconabout-1.png" alt="applicants"/></div>
+	<div class="middlesec_app">
+	<h1>636</h1>
+	<p>Applications</p>
+	</div>
+	</div>
+	<div class="middlesec_image"><div class="about_img"><img src="images/Iconabout-2.png" alt="preincubation"/></div>
+	<div class="middlesec_app">
+	<h1>1</h1>
+	<p>Preincubates</p>
+	</div>
+	</div>
+	<div class="middlesec_image"><div class="about_img"><img src="images/Iconabout-3.png" alt="incubates"/></div>
+	<div class="middlesec_app">
+	<h1>60</h1>
+	<p>Incubates</p>
+	</div>
+	</div>
+	<div class="middlesec_image"><div class="about_img"><img src="images/Iconabout-4.png" alt="graduates"/></div>
+	<div class="middlesec_app">
+	<h1>40</h1>
+	<p>Graduates</p>
+	</div>
+	</div>
+	</div>
+	<div class="clear"></div>
+	</div>
+</div>
+<div class="middle_annex">
+<div class="wrapper">
+<div class="middleannexleft">
+<h1>Annexe</h1>
+<p><p style="text-align: justify;">An annexe has been inaugurated in the&nbsp;IIITMK Campus, Technopark for the benefit of local start-ups who can be incubated in the Trivandrum Region. The IoT Lab in IIITMK Campus functions as the satellite facility of&nbsp;Maker Village.</p>
+</p>
+</div>
+<div class="middleannexright">
+<img src="https://makervillage.in/makerupload/small/about/1550431837MV Annexe - IoT lab - IIITMMK - Copy.jpg" alt="Image-1">
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="aboutthings">
+<div class="wrapper">
+	<div class="about_mid" id="3">
+<div class="aboutthingsright">
+<h3 class="mob_none">Derive</h3>
+<p><p style="text-align:justify">During the ideation stage, where the team has a potential innovative idea, Maker Village provides co-working space, development kits and limited access to equipments and allied facilities for them to develop a Proof of Concept. We help them refine the idea to ensure that there is a business case to it.</p>
+</p></div>
+<div class="aboutthingsleft"><img src="https://makervillage.in/makerupload/small/about/1546927967wearable.jpg"  alt="image" /></div>
+<div class="clear"></div>
+</div>
+
+	
+
+<div class="about_mid" id="4">
+<div class="aboutthingsleft"><img src="https://makervillage.in/makerupload/small/about/1546943119diylab.jpg"  alt="image" /></div>
+<div class="aboutthingsright">
+<h3 class="mob_none">Design</h3>
+<p><p style="text-align: justify;">Companies start product design and prototyping envisioning a market viable product. Maker Village provides the startups with electronics design automation tools and mechanical design tools, as well as marketing and prototyping facilities. Financial assistance is also provided through grants, loans to promising teams.</p>
+</p></div>
+<div class="clear"></div>
+</div>
+		<div class="about_mid" id="5">
+<div class="aboutthingsright">
+<h3 class="mob_none">Development</h3>
+<p><p style="text-align: justify;">During this stage the engineering design and development is undertaken by the startups to build a fully functional product after taking into account&nbsp;the modalities of Industrial design and DFM. Maker Village provides all the necessary support through mentoring by subject matter experts&nbsp;and, various labs, equipments and technologies. The startups are also provided with co investment opportunities and would be able to leverage the extensive partner network for product outreach and forging alliances and associations. Maker Village aso works with International accelerators for reaching a global audience and promising startups will be supported.</p>
+</p></div>
+<div class="aboutthingsleft"><img src="https://makervillage.in/makerupload/small/about/1546928551robo.jpg"  alt="image" /></div>
+<div class="clear"></div>
+</div>
+
+	</div>
+</div>
+<div class="objectives">
+<div class="wrapper">
+<div class="objectiveleft">
+<h1> Objectives</h1>
+<p><p style="text-align: justify;">Maker Village envisages to build the most thriving and equipped hardware ecosystem in the country and become an entrepreneurial hotspot of all makers from anywhere in the world and attract the best startups and entrepreneurs to the facility.</p>
+
+<p style="text-align: justify;">We have build a comprehensive end to end state-of-the-art facility to digitally transform&nbsp;an idea into reality.&nbsp;We are also working with an extensive network of partners in a multitude of areas that would enable entrepreneurs build, launch and scale innovative companies.</p>
+
+<p style="text-align: justify;">Maker Village intends to promote Hardware focussed innovation and set up labs and centres&nbsp;that focus on the current trend and emerging disruptive&nbsp;technologies to bring India to the forefront of innovation in these areas.</p>
+
+<p style="text-align: justify;">We have build a&nbsp;60000 sqft facility inside the Kerala Technology Innovation Zone, Kochi, which is part of the largest Integrated Startup Complex in the country. The facility has co-working spaces, conference rooms, electronics and Instrumentation labs, Metal Machining area, Industrial 3d Printing and Plastics facility and an Industrial SMT Line. This is also a platform for&nbsp;the industry, academia&nbsp;and the startups to collaborate, mentor, educate, research and create products and IP.</p>
+</p>
+</div>
+<div class="objectiveright">
+<img src="images/iconabout-5.png" alt="Image-1">
+</div>
+</div>
+<div class="clear"></div>
+</div>
+
+<!--<div class="pre_footer">
+   <div class="pre_footerimg">
+   <img src="images/Side-Image.png" alt="Image-1">
+   </div>
+   <div class="pre_footercontent">
+   <p>Excited to be a part of Maker Village?</p>
+   <a href="incubationform.php"><button class="contacts">Apply Now</button></a> 	
+   </div>
+    <div class="clear"></div>
+	</div>-->
+<footer>
+	<div class="wrappers_foo">
+		<div class="footer_col">
+			<h2>Maker Village</h2>
+			<p>The Maker Village is a joint initiative between the Ministry of Electronics and Information Technology(MeitY) and IIITM - Kerala.
+
+&nbsp;
+
+		</div>
+		<div class="footer_col1">
+			<h2><a href="aboutus.php">About</a></h2>
+			<ul>
+				<li><a href="blog.php">Blog</a></li>
+				<li><a href="startups.php">Startups</a></li>
+				<li><a href="facility.php">Facilities</a></li>
+				<li><a href="imggallery.php">Gallery</a></li>
+				<li><a href="events.php">Events</a></li>
+			</ul>
+		</div>
+
+		<div class="footer_col2">
+			<h2>Contact Us</h2>
+			<ul class="contact_info">
+				<li class="addr"> <p>Maker Village,</p>
+
+<p>KTIZ, Kinfra Hi-Tech Park,</p>
+
+<p>Kalamassery, Kochi,</p>
+
+<p>Kerala 683503</p>
+
+<p>&nbsp;</p>
+</li>
+				<li class="ph">048-429-76688, </li>
+				<li class="mail"><a href="mailto:makervillage@iiitmk.ac.in">makervillage@iiitmk.ac.in</a></li>
+			</ul>
+		</div>
+		<div class="footer_col3 social">
+			<h2>FOLLOW US</h2>
+			<a href="https%3A%2F%2Fwww.facebook.com%2Fmakervillageindia" target="_blank"><img src="images/facebook-index.png" alt="Facebook" /></a>
+			<a href="https%3A%2F%2Ftwitter.com%2Fmvkochi" target="_blank"><img src="images/twiter.png" alt="Twitter" /></a>
+			<a href="https://www.youtube.com/channel/UC-ng9CcLh4N6IKe1lCwfs9w" target="_blank"><img src="images/youtube.png" alt="youtube" /></a>
+			<a href="https://plus.google.com/discover" target="_blank"><img src="images/Googleplus.png" alt="Googleplus" /></a>
+
+			<p></p>
+		</div>
+		<div class="clear"></div>
+
+
+	</div>
+</footer>
+
+<script>
+	$(document).ready(function() {
+		"use strict";
+		var myNav = {
+			init: function() {
+				this.cacheDOM();
+				this.browserWidth();
+				this.bindEvents();
+			},
+			cacheDOM: function() {
+				this.navBars = $(".navBars");
+				this.toggle = $("#toggle");
+				this.navMenu = $("#menu");
+			},
+			browserWidth: function() {
+				$(window).resize(this.bindEvents.bind(this));
+			},
+			bindEvents: function() {
+				var width = window.innerWidth;
+
+				if (width < 770) {
+					this.navBars.click(this.animate.bind(this));
+					this.navMenu.hide();
+					this.toggle[0].checked = false;
+				} else {
+					this.resetNav();
+				}
+			},
+			animate: function(e) {
+				var checkbox = this.toggle[0];
+
+				if (!checkbox.checked) {
+					this.navMenu.slideDown();
+				} else {
+					this.navMenu.slideUp();
+				}
+
+			},
+			resetNav: function() {
+				this.navMenu.show();
+			}
+		};
+		myNav.init();
+	});
+</script>
+
+<script src="js/jquery.bxslider.min.js"></script>
+</body>
+</html>

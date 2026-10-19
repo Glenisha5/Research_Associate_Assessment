@@ -1,0 +1,182 @@
+2026-10-18 10:25:38,327 INFO 1 incubators x 57 months (2026-09 back to 2022-01)
+2026-10-18 10:25:38,330 INFO === T-Hub (https://www.t-hub.co/)
+2026-10-18 10:26:29,186 INFO 1 incubators x 57 months (2026-09 back to 2022-01)
+2026-10-18 10:26:29,188 INFO === T-Hub (https://www.t-hub.co/)
+2026-10-18 10:28:23,502 INFO 20 incubators x 57 months (2026-09 back to 2022-01)
+2026-10-18 10:28:23,503 INFO === T-Hub (https://www.t-hub.co/)
+2026-10-18 10:31:05,767 INFO === NSRCEL (IIM Bangalore) (https://nsrcel.org/)
+2026-10-18 10:35:38,855 INFO === CIIE.CO (IIM Ahmedabad; now IIMA Ventures) (https://iimaventures.com/)
+2026-10-18 10:38:17,203 INFO === IIT Madras Incubation Cell (IITMIC) (https://www.iitm.ac.in/research-park/incubation-cell)
+2026-10-18 10:41:32,282 INFO === Kerala Startup Mission (KSUM) (https://startupmission.kerala.gov.in/)
+2026-10-18 10:47:44,544 INFO === IIM Calcutta Innovation Park (IIMCIP) (https://iimcip.org/)
+2026-10-18 10:50:47,229 INFO === SINE (IIT Bombay) (https://www.sineiitb.org/)
+2026-10-18 10:53:17,031 INFO === Maker Village (http://makervillage.in/)
+2026-10-18 10:53:39,589 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000137AFBCAE70>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 1/5 in 4s
+2026-10-18 10:54:05,642 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000137AFBCACF0>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 2/5 in 8s
+2026-10-18 10:54:35,686 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000137AFBCA840>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 3/5 in 16s
+2026-10-18 10:55:13,748 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000137AFBC83E0>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 4/5 in 32s
+2026-10-18 10:56:07,810 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000137AFBC92E0>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 5/5 in 64s
+2026-10-18 10:58:42,233 INFO === Startup Village (Kochi) (https://www.pupilfirst.org/)
+2026-10-18 11:01:01,973 INFO === WE Hub (https://wehub.telangana.gov.in/)
+2026-10-18 11:03:36,453 INFO === GUSEC (Gujarat University Startup Entrepreneurship Council) (https://gusec.edu.in/)
+2026-10-18 11:07:11,387 INFO === Peak XV Surge (formerly Sequoia Surge) (https://www.peakxv.com/)
+2026-10-18 11:14:45,912 INFO 20 incubators x 57 months (2026-09 back to 2022-01)
+2026-10-18 11:14:45,914 INFO === T-Hub (https://www.t-hub.co/)
+2026-10-18 11:15:11,136 INFO === NSRCEL (IIM Bangalore) (https://nsrcel.org/)
+2026-10-18 11:15:43,650 INFO === CIIE.CO (IIM Ahmedabad; now IIMA Ventures) (https://iimaventures.com/)
+2026-10-18 11:15:46,593 WARNING HTTP 429 for https://web.archive.org/cdx/search/cdx - retry 1/5 in 4s
+2026-10-18 11:16:01,328 WARNING HTTP 429 for https://web.archive.org/cdx/search/cdx - retry 1/5 in 4s
+2026-10-18 11:16:15,869 INFO === IIT Madras Incubation Cell (IITMIC) (https://www.iitm.ac.in/research-park/incubation-cell)
+2026-10-18 11:16:18,717 WARNING HTTP 429 for https://web.archive.org/cdx/search/cdx - retry 1/5 in 4s
+2026-10-18 11:16:37,814 WARNING HTTP 429 for https://web.archive.org/cdx/search/cdx - retry 1/5 in 4s
+2026-10-18 11:16:53,590 WARNING HTTP 429 for https://web.archive.org/cdx/search/cdx - retry 1/5 in 4s
+2026-10-18 11:17:09,561 WARNING HTTP 429 for https://web.archive.org/cdx/search/cdx - retry 1/5 in 4s
+2026-10-18 11:17:16,819 INFO === Kerala Startup Mission (KSUM) (https://startupmission.kerala.gov.in/)
+2026-10-18 11:17:30,032 WARNING HTTP 429 for https://web.archive.org/cdx/search/cdx - retry 1/5 in 4s
+2026-10-18 11:17:45,331 INFO === IIM Calcutta Innovation Park (IIMCIP) (https://iimcip.org/)
+2026-10-18 11:17:57,589 WARNING HTTP 429 for https://web.archive.org/cdx/search/cdx - retry 1/5 in 4s
+2026-10-18 11:18:13,824 INFO === SINE (IIT Bombay) (https://www.sineiitb.org/)
+2026-10-18 11:18:16,748 WARNING HTTP 429 for https://web.archive.org/cdx/search/cdx - retry 1/5 in 4s
+2026-10-18 11:18:29,322 WARNING HTTP 429 for https://web.archive.org/cdx/search/cdx - retry 1/5 in 4s
+2026-10-18 11:18:45,334 INFO === Maker Village (http://makervillage.in/)
+2026-10-18 11:19:07,400 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000020246081970>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 1/5 in 4s
+2026-10-18 11:19:33,447 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000020246081D60>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 2/5 in 8s
+2026-10-18 11:20:03,491 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000020246002510>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 3/5 in 16s
+2026-10-18 11:20:41,546 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000020246002180>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 4/5 in 32s
+2026-10-18 11:21:35,593 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000020246000260>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 5/5 in 64s
+2026-10-18 11:23:04,549 INFO === Startup Village (Kochi) (https://www.pupilfirst.org/)
+2026-10-18 11:23:28,915 INFO === WE Hub (https://wehub.telangana.gov.in/)
+2026-10-18 11:23:44,423 WARNING HTTP 429 for https://web.archive.org/cdx/search/cdx - retry 1/5 in 4s
+2026-10-18 11:24:08,079 INFO === GUSEC (Gujarat University Startup Entrepreneurship Council) (https://gusec.edu.in/)
+2026-10-18 11:24:53,803 INFO === Peak XV Surge (formerly Sequoia Surge) (https://www.peakxv.com/)
+2026-10-18 11:25:40,236 INFO === JioGenNext (https://www.jiogennext.com/)
+2026-10-18 11:25:43,373 WARNING Network error HTTPSConnectionPool(host='www.jiogennext.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000202473CE630>: Failed to resolve 'www.jiogennext.com' ([Errno 11002] getaddrinfo failed)")) for https://www.jiogennext.com/ - retry 1/5 in 4s
+2026-10-18 11:25:50,406 WARNING Network error HTTPSConnectionPool(host='www.jiogennext.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000202473CF110>: Failed to resolve 'www.jiogennext.com' ([Errno 11002] getaddrinfo failed)")) for https://www.jiogennext.com/ - retry 2/5 in 8s
+2026-10-18 11:28:07,692 INFO === 100X.VC (https://www.100x.vc/)
+2026-10-18 11:30:46,240 INFO === Marwari Catalysts (https://www.marwaricatalysts.com/home.php)
+2026-10-18 11:32:46,144 INFO === a-IDEA (NAARM TBI) (https://aidea.naarm.org.in/)
+2026-10-18 11:35:26,366 INFO === TREC-STEP (Tiruchirappalli) (https://www.trecstep.com/)
+2026-10-18 11:36:47,348 INFO === Zone Startups India (https://www.zonestartups.com/)
+2026-10-18 11:39:10,266 INFO === Amrita TBI (https://www.amritatbi.com/)
+2026-10-18 11:41:06,508 INFO === Atal Community Innovation Centres (ACIC) (https://aim.gov.in/)
+2026-10-18 11:44:08,887 INFO Done. Manifest: output\manifest.csv
+2026-10-18 11:44:08,887 INFO   about     missing         7
+2026-10-18 11:44:08,888 INFO   about     no_snapshot     734
+2026-10-18 11:44:08,888 INFO   about     ok              112
+2026-10-18 11:44:08,889 INFO   about     skipped_exists  307
+2026-10-18 11:44:08,889 INFO   homepage  error           1
+2026-10-18 11:44:08,889 INFO   homepage  no_snapshot     376
+2026-10-18 11:44:08,889 INFO   homepage  ok              285
+2026-10-18 11:44:08,889 INFO   homepage  skipped_exists  498
+2026-10-18 20:33:43,564 INFO 20 incubators x 57 months (2026-09 back to 2022-01)
+2026-10-18 20:33:43,566 INFO === T-Hub (https://www.t-hub.co/)
+2026-10-18 20:37:35,857 INFO === NSRCEL (IIM Bangalore) (https://nsrcel.org/)
+2026-10-18 20:38:03,410 INFO === CIIE.CO (IIM Ahmedabad; now IIMA Ventures) (https://iimaventures.com/)
+2026-10-18 20:38:33,316 INFO === IIT Madras Incubation Cell (IITMIC) (https://www.iitm.ac.in/research-park/incubation-cell)
+2026-10-18 20:39:11,513 WARNING HTTP 429 for https://web.archive.org/cdx/search/cdx - retry 1/5 in 4s
+2026-10-18 20:40:48,055 INFO === Kerala Startup Mission (KSUM) (https://startupmission.kerala.gov.in/)
+2026-10-18 20:42:05,209 INFO === IIM Calcutta Innovation Park (IIMCIP) (https://iimcip.org/)
+2026-10-18 20:42:42,885 INFO === SINE (IIT Bombay) (https://www.sineiitb.org/)
+2026-10-18 20:43:14,764 INFO === Maker Village (http://makervillage.in/)
+2026-10-18 20:43:37,448 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000140FA518B00>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 1/5 in 4s
+2026-10-18 20:44:03,509 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000140FA5195E0>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 2/5 in 8s
+2026-10-18 20:44:33,549 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000140FA518080>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 3/5 in 16s
+2026-10-18 20:45:11,579 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000140FA518B30>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 4/5 in 32s
+2026-10-18 20:46:05,648 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000140FA51B500>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 5/5 in 64s
+2026-10-18 20:48:02,561 INFO === Startup Village (Kochi) (https://www.pupilfirst.org/)
+2026-10-18 20:48:31,163 INFO === WE Hub (https://wehub.telangana.gov.in/)
+2026-10-18 20:48:43,470 INFO HTTP 403 for https://web.archive.org/web/20240102090449id_/http://wehub.telangana.gov.in/ (not retrying)
+2026-10-18 20:49:14,080 INFO === GUSEC (Gujarat University Startup Entrepreneurship Council) (https://gusec.edu.in/)
+2026-10-18 20:49:36,810 WARNING HTTP 500 for https://web.archive.org/web/20250312015747id_/http://gusec.edu.in/ - retry 1/5 in 4s
+2026-10-18 20:49:44,097 WARNING HTTP 500 for https://web.archive.org/web/20250312015747id_/http://gusec.edu.in/ - retry 2/5 in 8s
+2026-10-18 20:49:56,365 WARNING HTTP 500 for https://web.archive.org/web/20250312015747id_/http://gusec.edu.in/ - retry 3/5 in 16s
+2026-10-18 20:50:17,284 WARNING HTTP 500 for https://web.archive.org/web/20250312015747id_/http://gusec.edu.in/ - retry 4/5 in 32s
+2026-10-18 20:50:54,392 WARNING HTTP 500 for https://web.archive.org/web/20250312015747id_/http://gusec.edu.in/ - retry 5/5 in 64s
+2026-10-18 20:52:01,801 INFO HTTP 521 for https://web.archive.org/web/20240606094748id_/http://contact@gusec.edu.in/ (not retrying)
+2026-10-18 20:52:49,838 INFO === Peak XV Surge (formerly Sequoia Surge) (https://www.peakxv.com/)
+2026-10-18 20:53:29,390 INFO === JioGenNext (https://www.jiogennext.com/)
+2026-10-18 20:54:36,111 INFO === 100X.VC (https://www.100x.vc/)
+2026-10-18 20:55:56,159 INFO === Marwari Catalysts (https://www.marwaricatalysts.com/home.php)
+2026-10-18 20:57:08,010 INFO === a-IDEA (NAARM TBI) (https://aidea.naarm.org.in/)
+2026-10-18 20:57:48,899 INFO === TREC-STEP (Tiruchirappalli) (https://www.trecstep.com/)
+2026-10-18 20:58:21,968 INFO === Zone Startups India (https://www.zonestartups.com/)
+2026-10-18 20:58:52,859 INFO === Amrita TBI (https://www.amritatbi.com/)
+2026-10-18 20:59:22,240 INFO === Atal Community Innovation Centres (ACIC) (https://aim.gov.in/)
+2026-10-18 21:00:00,104 INFO HTTP 404 for https://web.archive.org/web/20251115220848id_/http://aim.gov.in/overview (not retrying)
+2026-10-18 21:00:00,105 INFO Done. Manifest: output\manifest.csv
+2026-10-18 21:00:00,107 INFO   about     error           1
+2026-10-18 21:00:00,107 INFO   about     missing         7
+2026-10-18 21:00:00,107 INFO   about     no_snapshot     724
+2026-10-18 21:00:00,107 INFO   about     ok              9
+2026-10-18 21:00:00,108 INFO   about     skipped_exists  419
+2026-10-18 21:00:00,108 INFO   homepage  error           4
+2026-10-18 21:00:00,108 INFO   homepage  no_snapshot     346
+2026-10-18 21:00:00,108 INFO   homepage  ok              27
+2026-10-18 21:00:00,108 INFO   homepage  skipped_exists  783
+2026-10-19 10:08:55,956 INFO 20 incubators x 57 months (2026-09 back to 2022-01)
+2026-10-19 10:08:55,958 INFO === T-Hub (https://www.t-hub.co/)
+2026-10-19 10:10:09,636 INFO === NSRCEL (IIM Bangalore) (https://nsrcel.org/)
+2026-10-19 10:10:11,512 WARNING Network error ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)) for https://nsrcel.org/ - retry 1/5 in 4s
+2026-10-19 10:10:16,643 WARNING Network error ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)) for https://nsrcel.org/ - retry 2/5 in 8s
+2026-10-19 10:10:25,761 WARNING Network error ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)) for https://nsrcel.org/ - retry 3/5 in 16s
+2026-10-19 10:10:43,117 WARNING Network error ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)) for https://nsrcel.org/ - retry 4/5 in 32s
+2026-10-19 10:11:16,604 WARNING Network error ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)) for https://nsrcel.org/ - retry 5/5 in 64s
+2026-10-19 10:13:30,281 INFO === CIIE.CO (IIM Ahmedabad; now IIMA Ventures) (https://iimaventures.com/)
+2026-10-19 10:14:27,444 INFO === IIT Madras Incubation Cell (IITMIC) (https://www.iitm.ac.in/research-park/incubation-cell)
+2026-10-19 10:17:30,211 INFO === Kerala Startup Mission (KSUM) (https://startupmission.kerala.gov.in/)
+2026-10-19 10:18:36,291 INFO === IIM Calcutta Innovation Park (IIMCIP) (https://iimcip.org/)
+2026-10-19 10:18:39,401 WARNING HTTP 500 for https://iimcip.org/ - retry 1/5 in 4s
+2026-10-19 10:18:45,498 WARNING HTTP 500 for https://iimcip.org/ - retry 2/5 in 8s
+2026-10-19 10:18:55,550 WARNING HTTP 500 for https://iimcip.org/ - retry 3/5 in 16s
+2026-10-19 10:19:13,633 WARNING HTTP 500 for https://iimcip.org/ - retry 4/5 in 32s
+2026-10-19 10:19:47,743 WARNING HTTP 500 for https://iimcip.org/ - retry 5/5 in 64s
+2026-10-19 10:21:55,378 INFO === SINE (IIT Bombay) (https://www.sineiitb.org/)
+2026-10-19 10:22:33,509 INFO === Maker Village (http://makervillage.in/)
+2026-10-19 10:22:56,079 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000215B9B23AD0>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 1/5 in 4s
+2026-10-19 10:23:22,123 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000215B97EEDE0>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 2/5 in 8s
+2026-10-19 10:23:52,179 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000215B97EE810>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 3/5 in 16s
+2026-10-19 10:24:30,238 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000215B9D09C70>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 4/5 in 32s
+2026-10-19 10:25:24,267 WARNING Network error HTTPConnectionPool(host='makervillage.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000215B98BED80>, 'Connection to makervillage.in timed out. (connect timeout=60)')) for http://makervillage.in/ - retry 5/5 in 64s
+2026-10-19 10:27:13,040 INFO === Startup Village (Kochi) (https://www.pupilfirst.org/)
+2026-10-19 10:28:01,994 INFO === WE Hub (https://wehub.telangana.gov.in/)
+2026-10-19 10:28:30,071 INFO HTTP 403 for https://web.archive.org/web/20240102090449id_/http://wehub.telangana.gov.in/ (not retrying)
+2026-10-19 10:29:04,295 INFO === GUSEC (Gujarat University Startup Entrepreneurship Council) (https://gusec.edu.in/)
+2026-10-19 10:30:30,992 WARNING HTTP 500 for https://web.archive.org/web/20250312015747id_/http://gusec.edu.in/ - retry 1/5 in 4s
+2026-10-19 10:30:38,425 WARNING HTTP 500 for https://web.archive.org/web/20250312015747id_/http://gusec.edu.in/ - retry 2/5 in 8s
+2026-10-19 10:30:49,319 WARNING HTTP 500 for https://web.archive.org/web/20250312015747id_/http://gusec.edu.in/ - retry 3/5 in 16s
+2026-10-19 10:31:09,383 WARNING HTTP 500 for https://web.archive.org/web/20250312015747id_/http://gusec.edu.in/ - retry 4/5 in 32s
+2026-10-19 10:31:44,662 WARNING HTTP 500 for https://web.archive.org/web/20250312015747id_/http://gusec.edu.in/ - retry 5/5 in 64s
+2026-10-19 10:32:51,911 INFO HTTP 521 for https://web.archive.org/web/20240606094748id_/http://contact@gusec.edu.in/ (not retrying)
+2026-10-19 10:33:32,318 INFO === Peak XV Surge (formerly Sequoia Surge) (https://www.peakxv.com/)
+2026-10-19 10:34:20,112 INFO === JioGenNext (https://www.jiogennext.com/)
+2026-10-19 10:34:23,330 WARNING Network error HTTPSConnectionPool(host='www.jiogennext.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000215B9D16510>: Failed to resolve 'www.jiogennext.com' ([Errno 11002] getaddrinfo failed)")) for https://www.jiogennext.com/ - retry 1/5 in 4s
+2026-10-19 10:35:35,581 INFO === 100X.VC (https://www.100x.vc/)
+2026-10-19 10:36:52,366 INFO === Marwari Catalysts (https://www.marwaricatalysts.com/home.php)
+2026-10-19 10:37:14,816 WARNING Network error HTTPSConnectionPool(host='www.marwaricatalysts.com', port=443): Max retries exceeded with url: /home.php (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000215BA43DA00>, 'Connection to www.marwaricatalysts.com timed out. (connect timeout=60)')) for https://www.marwaricatalysts.com/home.php - retry 1/5 in 4s
+2026-10-19 10:37:40,876 WARNING Network error HTTPSConnectionPool(host='www.marwaricatalysts.com', port=443): Max retries exceeded with url: /home.php (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000215B94AF7A0>, 'Connection to www.marwaricatalysts.com timed out. (connect timeout=60)')) for https://www.marwaricatalysts.com/home.php - retry 2/5 in 8s
+2026-10-19 10:38:10,921 WARNING Network error HTTPSConnectionPool(host='www.marwaricatalysts.com', port=443): Max retries exceeded with url: /home.php (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000215B94AFC50>, 'Connection to www.marwaricatalysts.com timed out. (connect timeout=60)')) for https://www.marwaricatalysts.com/home.php - retry 3/5 in 16s
+2026-10-19 10:38:48,981 WARNING Network error HTTPSConnectionPool(host='www.marwaricatalysts.com', port=443): Max retries exceeded with url: /home.php (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000215B942C140>, 'Connection to www.marwaricatalysts.com timed out. (connect timeout=60)')) for https://www.marwaricatalysts.com/home.php - retry 4/5 in 32s
+2026-10-19 10:39:43,016 WARNING Network error HTTPSConnectionPool(host='www.marwaricatalysts.com', port=443): Max retries exceeded with url: /home.php (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000215B942C5F0>, 'Connection to www.marwaricatalysts.com timed out. (connect timeout=60)')) for https://www.marwaricatalysts.com/home.php - retry 5/5 in 64s
+2026-10-19 10:42:02,748 INFO === a-IDEA (NAARM TBI) (https://aidea.naarm.org.in/)
+2026-10-19 10:43:02,911 INFO === TREC-STEP (Tiruchirappalli) (https://www.trecstep.com/)
+2026-10-19 10:43:37,357 INFO === Zone Startups India (https://www.zonestartups.com/)
+2026-10-19 10:46:34,003 INFO === Amrita TBI (https://www.amritatbi.com/)
+2026-10-19 10:47:13,440 INFO === Atal Community Innovation Centres (ACIC) (https://aim.gov.in/)
+2026-10-19 10:47:58,594 INFO HTTP 404 for https://web.archive.org/web/20251115220848id_/http://aim.gov.in/overview (not retrying)
+2026-10-19 10:47:58,596 INFO Done. Manifest: output\manifest.csv
+2026-10-19 10:47:58,597 INFO   about     error           1
+2026-10-19 10:47:58,598 INFO   about     missing         9
+2026-10-19 10:47:58,598 INFO   about     no_snapshot     724
+2026-10-19 10:47:58,598 INFO   about     ok              52
+2026-10-19 10:47:58,598 INFO   about     skipped_exists  374
+2026-10-19 10:47:58,600 INFO   homepage  error           7
+2026-10-19 10:47:58,600 INFO   homepage  no_snapshot     346
+2026-10-19 10:47:58,600 INFO   homepage  ok              64
+2026-10-19 10:47:58,610 INFO   homepage  skipped_exists  743
+2026-10-19 13:08:09,442 INFO 20 incubators x 57 months (2026-09 back to 2022-01)
+2026-10-19 13:08:09,443 INFO === Kerala Startup Mission (KSUM) (https://startupmission.kerala.gov.in/)
+2026-10-19 13:08:38,060 INFO === NSRCEL (IIM Bangalore) (https://nsrcel.org/)
+2026-10-19 13:08:39,287 WARNING Network error ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)) for https://nsrcel.org/ - retry 1/5 in 4s
+2026-10-19 13:08:44,349 WARNING Network error ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)) for https://nsrcel.org/ - retry 2/5 in 8s
+2026-10-19 13:08:53,426 WARNING Network error ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)) for https://nsrcel.org/ - retry 3/5 in 16s
+2026-10-19 13:09:10,487 WARNING Network error ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)) for https://nsrcel.org/ - retry 4/5 in 32s
